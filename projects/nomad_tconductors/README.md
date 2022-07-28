@@ -30,4 +30,4 @@ test.csv - contains the set of materials for which you must predict the bandgap 
 
 /{train|test}/{id}/geometry.xyz - files with spatial information about the material. The file name corresponds to the id in the respective csv files.
 
-### Disclaimer: The data provided belongs to Nomad Competition hosted in Kaggle. The data is provided for educational purposes only.
+##### Disclaimer: The data provided belongs to Nomad Competition hosted in Kaggle. The data is provided for educational purposes only.
