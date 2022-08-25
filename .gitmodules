@@ -1,3 +1,9 @@
 [submodule "learnings/HandsOnEDA"]
 	path = learnings/HandsOnEDA
 	url = https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python
+[submodule "learnings/Cheatsheets"]
+	path = learnings/Cheatsheets
+	url = https://github.com/FavioVazquez/ds-cheatsheets
+[submodule "learnings/MLTheoryRecap"]
+	path = learnings/MLTheoryRecap
+	url = https://github.com/angeloziletti/ml_algorithms_recap
