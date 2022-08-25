@@ -7,3 +7,6 @@
 [submodule "learnings/MLTheoryRecap"]
 	path = learnings/MLTheoryRecap
 	url = https://github.com/angeloziletti/ml_algorithms_recap
+[submodule "learnings/MLwithPython"]
+	path = learnings/MLwithPython
+	url = https://github.com/tirthajyoti/Machine-Learning-with-Python
