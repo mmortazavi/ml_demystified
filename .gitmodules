@@ -1,0 +1,3 @@
+[submodule "learnings/HandsOnEDA"]
+	path = learnings/HandsOnEDA
+	url = https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python
