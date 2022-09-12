@@ -141,3 +141,5 @@ projects/gis/majidmortazavi_raw.ipynb
 workshop/materials_properties/train.ipynb
 workshop/materials_properties/ternary_fe.csv
 workshop/materials_properties/descriptor.ipynb
+workshop/materials_properties/materials_project/*
+workshop/*
