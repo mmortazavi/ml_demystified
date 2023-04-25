@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Streamlit",
+            "type": "python",
+            "request": "launch",
+            "module": "streamlit",
+            "cwd": "${workspaceFolder}/workshop/computer_vision/webapp",
+            "args": [
+                "run",
+                "--server.runOnSave","true",
+                "--global.developmentMode", "false",
+                "main.py"
+    
+            ],
+            "justMyCode": true
+        },
+                {
+            "name": "Python: FastAPI",
+            "type": "python",
+            "request": "launch",
+            "module": "uvicorn", 
+            "cwd": "${workspaceFolder}/workshop/computer_vision/backend",
+            "args": [
+                "main:app",
+                "--reload",
+                "--host",
+                "0.0.0.0",
+                "--port",
+                "2023"
+            ]
+        }
+    ]
+}
