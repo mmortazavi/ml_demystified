@@ -1,6 +1,5 @@
 import os
 import cv2
-from PIL import Image
 
 from datetime import datetime
 import matplotlib.pyplot as plt

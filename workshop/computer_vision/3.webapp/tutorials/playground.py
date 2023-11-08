@@ -10,7 +10,7 @@ options = ["Option 1", "Option 2", "Option 3"]
 value = st.slider("Select a value", 0, 10, 5)
 
 # Define a checkbox with a default value
-checked = st.checkbox("Check me!", True)
+checked = st.checkbox("Check me Huray!", True)
 
 # Define a selectbox with the options defined above
 selected_option = st.selectbox("Select an option", options)

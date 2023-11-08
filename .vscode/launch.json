@@ -9,7 +9,7 @@
             "type": "python",
             "request": "launch",
             "module": "streamlit",
-            "cwd": "${workspaceFolder}/workshop/computer_vision/webapp",
+            "cwd": "${workspaceFolder}/workshop/computer_vision/3.webapp",
             "args": [
                 "run",
                 "--server.runOnSave","true",
@@ -24,7 +24,7 @@
             "type": "python",
             "request": "launch",
             "module": "uvicorn", 
-            "cwd": "${workspaceFolder}/workshop/computer_vision/backend",
+            "cwd": "${workspaceFolder}/workshop/computer_vision/4.backend",
             "args": [
                 "main:app",
                 "--reload",
